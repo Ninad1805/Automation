@@ -1,12 +1,11 @@
 package Java_Selenium.Product;
 
-/**
- * Hello world!
- *
- */
+import org.testng.annotations.Test;
+
 public class App {
 
-	public static void main(String args[]) {
-		System.out.println("New commit on 7th December 2023");
+	@Test
+	public void demoTest() {
+
 	}
 }
